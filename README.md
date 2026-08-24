@@ -2,6 +2,7 @@
 
 Adafruit HMC5883L 3-Axis Magnetometer Breakout library using Adafruit's Unified Sensor Library. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.2.0. Upstream: <https://github.com/adafruit/Adafruit_HMC5883_Unified>.
 
+**Source last updated:** 2019-05-23  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
