@@ -18,6 +18,10 @@ Adafruit HMC5883L 3-Axis Magnetometer Breakout library using Adafruit's Unified 
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_HMC5883_Unified`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
